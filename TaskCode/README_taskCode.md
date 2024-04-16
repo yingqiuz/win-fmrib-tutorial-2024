@@ -6,7 +6,7 @@ This repository contains a Python script for a simple Psychopy task. The task in
 
 ## Task Description
 
-The provided Python script (`psychopy_task.py`) implements the following steps:
+The provided Python script (`task_code_Open_science.py`) implements the following steps:
 
 1. **Initializing Stimuli**: Two text stimuli (`stim1` and `stim2`) are created with predefined text, position, and color attributes.
 
@@ -24,13 +24,13 @@ The provided Python script (`psychopy_task.py`) implements the following steps:
 
 ## Usage
 
-To run the Psychopy task:
+To run the Psychopy task (do not run it):
 
 1. Ensure you have Psychopy installed in your Python environment.
-2. Copy the provided Python script (`psychopy_task.py`) to your local machine.
+2. Copy the provided Python script (`task_code_Open_science.py`) to your local machine.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the Python script.
-5. Run the script using the command: `python psychopy_task.py`.
+5. Run the script using the command: `python task_code_Open_science.py`.
 
 ## Dependencies
 
@@ -43,7 +43,13 @@ To run the Psychopy task:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+TCC BY-NC-SA 4.0 Deed Attribution-NonCommercial-ShareAlike 4.0 International
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
+
+BY: credit must be given to the creator. NC: Only noncommercial uses of the work are permitted. SA: Adaptations must be shared under the same terms.
+
+**Note:** Remember to respect intellectual property rights and ethical guidelines when using real datasets and protocols in your projects.
 
 Feel free to explore, modify, and use the provided script for your educational or research purposes!
 
